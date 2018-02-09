@@ -9,7 +9,7 @@ Cloudmobi Report API User Guide
 
 ####    [Country Report](#the-interface-of-country-report)
 
-####    [Notes](#notes)
+####    [Note](#notes)
 
 
 
