@@ -9,7 +9,7 @@ Cloudmobi Report API User Guide
 
 ####    [Country Report](#the-interface-of-country-report)
 
-####    [Note](#note)
+####    [Note](#notes)
 
 
 
@@ -161,7 +161,7 @@ b.reward video & video  slot
 |  filled    | string |  the number of ad fill  |
 |    day     | string |  date  |
 
-Note
+Notes
 ===
 * The time range should not exceed 7 days and only data in the last 90 days will be available.  
 * All the data provided is based on UTC 0 time zone.  
