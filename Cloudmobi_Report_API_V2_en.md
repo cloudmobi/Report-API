@@ -1,8 +1,7 @@
 Cloudmobi Report API User Guide
 === 
 
-Catalog
-=== 
+
 
 ####    [Overview](#overview)  
 
