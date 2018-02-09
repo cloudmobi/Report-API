@@ -162,7 +162,7 @@ b.reward video & video  slot
 |    day     | string |  date  |
 
 Note
-==
+===
 * The time range should not exceed 7 days and only data in the last 90 days will be available.  
 * All the data provided is based on UTC 0 time zone.  
 * Data on that very day will be accurate at 7 a.m. next day (UTC T+1 7:00 AM), peculiar circumstance exception.  
