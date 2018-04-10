@@ -16,7 +16,7 @@ Cloudmobi Report API User Guide
 Overview
 ===
 
-* You should apply to our operation manager for a token to access the interface in advance.
+* You should apply to our operation manager for a token to access the interface in advance. Please email to sdk_support@yeahmobi.com.
 
 ### Host
 
