@@ -31,8 +31,8 @@ E.g：http://www.cloudmobi.net/cloudmobi-reporting/get-data?t=XXXXXXXXXXXXXXXXXX
 |  st   | string | start time  |
 |  et   | string | end time  |
 |dimension|string| slot: data group by slot; country: data group by country |
-* While dimension=slot，We provide the interface of slot  
-* While dimension=country，We provide the interface of country   
+* While dimension=slot，We provide the report break down by slot  
+* While dimension=country，We provide the report break down by country   
 * The response is in the format of JSON array
 
 ### Definition of response parameter 
