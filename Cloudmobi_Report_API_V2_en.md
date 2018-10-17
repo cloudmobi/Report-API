@@ -30,7 +30,7 @@ E.g：http://www.cloudmobi.net/cloudmobi-reporting/get-data?t=XXXXXXXXXXXXXXXXXX
 | t | string | token |
 |  st   | string | start time  |
 |  et   | string | end time  |
-|dimension|string| slot: interface of slot; country: interface of country |
+|dimension|string| slot: data group by slot; country: data group by country |
 * While dimension=slot，We provide the interface of slot  
 * While dimension=country，We provide the interface of country   
 * The response is in the format of JSON array
