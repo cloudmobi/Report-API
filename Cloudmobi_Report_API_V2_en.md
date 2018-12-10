@@ -20,8 +20,8 @@ Overview
 
 ### Host
 
-URL: http://www.cloudmobi.net/cloudmobi-reporting/get-data?t={token}&st={start_time}&et={end_time}&dimension={dimension}   
-E.g：http://www.cloudmobi.net/cloudmobi-reporting/get-data?t=XXXXXXXXXXXXXXXXXXXXXXXXXXX&st=2017-12-20&et=2017-12-21&dimension=country  
+URL: https://www.cloudmobi.net/cloudmobi-reporting/get-data?t={token}&st={start_time}&et={end_time}&dimension={dimension}   
+E.g：https://www.cloudmobi.net/cloudmobi-reporting/get-data?t=XXXXXXXXXXXXXXXXXXXXXXXXXXX&st=2017-12-20&et=2017-12-21&dimension=country  
 
 ### Definition of the Parameter:  
 
